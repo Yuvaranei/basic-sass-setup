@@ -1,0 +1,19 @@
+{
+  "name": "basic-sass-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuvaranei/basic-sass-setup.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuvaranei/basic-sass-setup/issues"
+  },
+  "homepage": "https://github.com/Yuvaranei/basic-sass-setup#readme"
+}
